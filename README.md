@@ -4,4 +4,4 @@ This file is specific to the CRLauncher, so it is not recommended to depend on i
 
 # License
 The content in this repository is licensed under the [MIT](https://choosealicense.com/licenses/mit) license.
-The linked jars are licensed under the COSMIC REACH END USER LICENSE AGREEMENT VERSION 1 License. See the [LICENSE](https://github.com/PuzzlesHQ/CRArchive/blob/main/JAR_LICENSE.mds) file in the archive repository for details.
+The linked jars are licensed under the COSMIC REACH END USER LICENSE AGREEMENT VERSION 1 License. See the [LICENSE](https://github.com/PuzzlesHQ/CRArchive/blob/main/JAR_LICENSE.md) file in the archive repository for details.
