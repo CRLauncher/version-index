@@ -1,9 +1,25 @@
 {
     "latest": {
-        "alpha": "0.5.4",
+        "alpha": "0.5.5",
         "pre_alpha": "0.3.27"
     },
     "versions": [
+        {
+            "id": "0.5.5",
+            "type": "release",
+            "phase": "alpha",
+            "releaseTime": 1759777671,
+            "client": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.5-alpha/cosmic-reach-client-0.5.5-alpha.jar",
+                "sha256": "cd3435c510703dc8d6eaef8996bf766afa4d3d86a3ee79e7d29d50c6cf6888fc",
+                "size": 55368530
+            },
+            "server": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.5-alpha/cosmic-reach-server-0.5.5-alpha.jar",
+                "sha256": "995c071295db52a8f4a3a74b16ee539fbea882dafe67d7fd3724903eb4c5507f",
+                "size": 14883798
+            }
+        },
         {
             "id": "0.5.4",
             "type": "release",
@@ -17,6 +33,22 @@
             "server": {
                 "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.4-alpha/cosmic-reach-server-0.5.4-alpha.jar",
                 "sha256": "c11df443f94be51d1a2ec2c76d41f1d7d512b02a9f83dc60a823a05c6fab9b32",
+                "size": 14883545
+            }
+        },
+        {
+            "id": "0.5.3",
+            "type": "release",
+            "phase": "alpha",
+            "releaseTime": 1759691948,
+            "client": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.3-alpha/cosmic-reach-client-0.5.3-alpha.jar",
+                "sha256": "aed1df56c9abbcf6158349dd77c39a612eb3e2fe9a3b75c1c02a36a2892d85a7",
+                "size": 55365686
+            },
+            "server": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.3-alpha/cosmic-reach-server-0.5.3-alpha.jar",
+                "sha256": "f896c4ddbd29a524f04c1548d22bcdaff5469cc5d82b7447118ee7ded8790547",
                 "size": 14883545
             }
         },
